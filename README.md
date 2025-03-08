@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-  - 🔭 Trabalhando no SENAI de Educação a Distancia 1.50
+  - 🔭 Trabalhando no SENAI de Educação a Distância 1.50
   - 📖 Estudando: C#, HMTL, CSS e Javascript
   - 😄 Pronomes: Ela/Dela
 
