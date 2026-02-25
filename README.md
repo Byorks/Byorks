@@ -15,27 +15,29 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Byorks"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=27&duration=2000&pause=1500&color=C61AFF&width=555&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Vanessa+Byork!;Bem+vindo(a)+ao+meu+perfil!+%F0%9F%91%80%F0%9F%91%8D" alt="Typing SVG" /></a>
 
 <div>
-  <p>Desenvolvedora e Web Designer,</p> 
+  <p>Desenvolvedora Web</p> 
 
-  <p>Atualmente estudante de Multimídia na Escola SENAI de Informática.</p>
-  <p>Busco ampliar meus conhecimentos em C# e fazer uma transição de carreira para me tornar uma desenvolvedora Full Stack.</p><br>
+  <p>Técnica em Multimídia, que adora codar e evoluir no aprendizado.</p>
+  <p>Busco ampliar meus conhecimentos em C# e explorar o mundo do Full Stack.</p>
+  <p>Também possuo experiência com design UI/UX</p>
+  <br>
 </div>
 
-
-  - 🔭 Trabalhando no SENAI de Educação a Distância 1.50
-  - 📖 Estudando: C#, HMTL, CSS e Javascript
+  - 📖 Estudando: React, C#, SQL Server
   - 😄 Pronomes: Ela/Dela
 
 <div><br>
-  <a href="https://github.com/Byorks">
+ <!-- <a href="https://github.com/Byorks">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Byorks&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byorks&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Byorks&layout=compact&langs_count=7&theme=midnight-purple"/> -->
+</div>
 
 <div>
   <h2>🛠️ Linguagens e Ferramentas</h2>
   <!--https://devicon.dev/-->
   <div style="display: inline_block">
+    <img align="center" alt="Vanessa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img align="center" alt="Vanessa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Vanessa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Vanessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -44,10 +46,19 @@ You can click the Preview link to take a look at your changes.
     <img align="center"  alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
     <img align="center"  alt="adobeillustrator logo" height="30" width="40" src="https://skillicons.dev/icons?i=ai"/>
     <img align="center"  alt="adobephotoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg"/>
-          
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg"/>  
   </div>
+
+  <!-- <div>
+    <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,cs,tailwind,figma" />
+    </a>
+    </p>
+  </div> -->
 </div>
+
+
 
 <div>
   <h2>:mailbox: Como chegar até mim</h2>
