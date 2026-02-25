@@ -15,15 +15,14 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Byorks"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=27&duration=2000&pause=1500&color=C61AFF&width=555&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Vanessa+Byork!;Bem+vindo(a)+ao+meu+perfil!+%F0%9F%91%80%F0%9F%91%8D" alt="Typing SVG" /></a>
 
 <div>
-  <p>Desenvolvedora Web</p> 
+  <p>Full Stack Developer | React • C# .NET</p> 
 
-  <p>Técnica em Multimídia, que adora codar e evoluir no aprendizado.</p>
-  <p>Busco ampliar meus conhecimentos em C# e explorar o mundo do Full Stack.</p>
-  <p>Também possuo experiência com design UI/UX</p>
+  <p>Técnica em Multimídia com experiência prática no desenvolvimento de aplicações web, atuando com React no front-end e C# .NET no back-end.</p>
+  <p>Foco em organização de código, integração de APIs REST e construção de interfaces com boas práticas de UI/UX.</p>
   <br>
 </div>
 
-  - 📖 Estudando: React, C#, SQL Server
+  - 📖 Atualmente aprofundando: React, C#, SQL Server
   - 😄 Pronomes: Ela/Dela
 
 <div><br>
