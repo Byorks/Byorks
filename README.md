@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <h2>🛠️ Linguagens e Ferramentas</h2>
   <!--https://devicon.dev/-->
-  <div style="display: inline_block">
+  <!-- <div style="display: inline_block">
     <img align="center" alt="Vanessa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img align="center" alt="Vanessa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -46,15 +46,23 @@ You can click the Preview link to take a look at your changes.
     <img align="center"  alt="adobeillustrator logo" height="30" width="40" src="https://skillicons.dev/icons?i=ai"/>
     <img align="center"  alt="adobephotoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg"/>  
-  </div>
+  </div> 
+  -->
 
-  <!-- <div>
+  <div>
     <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,cs,tailwind,figma" />
+      <img src="https://skillicons.dev/icons?i=react,tailwind,cs,dotnet,py,js,css,html,firebase,git"/>
     </a>
     </p>
-  </div> -->
+  </div>  
+    <div>
+    <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+    </a>
+    </p>
+  </div>  
 </div>
 
 
